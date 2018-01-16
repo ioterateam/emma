@@ -6,7 +6,7 @@
 					{"url":"general-form.html","color":"red","title":"income","amount":"100"},
 					{"url":"general-form.html","color":"yellow","title":"income","amount":"50"}
 				    ]},
-				 {"type":"chart","content":['+
+				 {"type":"chart","content":[
 					{"type":"pie","width":5,"title":"Sales Income","chart_data":[
                   {
                     "value"    : 800,
