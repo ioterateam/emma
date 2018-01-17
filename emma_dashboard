@@ -1,0 +1,102 @@
+{ "data": [
+				
+				 
+				 {"type":"chart","content":[
+					
+				 	{"type":"chart_tab","width":6,"title":"Sales Stock","chart_data":[
+
+						{"type":"area","data":[
+                { y: "2011 Q1", item1: 2666, item2: 2666 },
+                { y: "2011 Q2", item1: 2778, item2: 2294 },
+                { y: "2011 Q3", item1: 4912, item2: 1969 },
+                { y: "2011 Q4", item1: 3767, item2: 3597 },
+                { y: "2012 Q1", item1: 6810, item2: 1914 },
+                { y: "2012 Q2", item1: 5670, item2: 4293 },
+                { y: "2012 Q3", item1: 4820, item2: 3795 },
+                { y: "2012 Q4", item1: 15073, item2: 5967 },
+                { y: "2013 Q1", item1: 10687, item2: 4460 },
+                { y: "2013 Q2", item1: 8432, item2: 5713 }
+              ],
+              "axis_title":["item1","item2"]},
+						{"type":"donut","data": [
+                  { label: "Download Sales", value: 12 },
+                  { label: "In-Store Sales", value: 30 },
+                  { label: "Mail-Order Sales", value: 20 }
+                ]
+            }
+
+					]},
+
+					{"type":"liquid","width":6,"title":"Watertank 2 Quantity","chart_data":43}
+				    
+				    ]},
+				  {"type":"chart","content":[
+					{"type":"area","width":6,"title":"Product Stock","chart_data":{
+                  "labels"  : ["January", "February", "March", "April", "May", "June", "July"],
+                  "datasets": [
+                    {
+                      "label"               : "Electronics",
+                      "fillColor"           : "rgba(210, 214, 222, 1)",
+                      "strokeColor"         : "rgba(210, 214, 222, 1)",
+                      "pointColor"          : "rgba(210, 214, 222, 1)",
+                      "pointStrokeColor"    : "#c1c7d1",
+                      "pointHighlightFill"  : "#fff",
+                      "pointHighlightStroke": "rgba(220,220,220,1)",
+                      "data"                : [65, 59, 80, 81, 56, 55, 40]
+                    },
+                    {
+                      "label"               : "Digital Goods",
+                      "fillColor"           : "rgba(60,141,188,0.9)",
+                      "strokeColor"         : "rgba(60,141,188,0.8)",
+                      "pointColor"          : "#3b8bba",
+                      "pointStrokeColor"    : "rgba(60,141,188,1)",
+                      "pointHighlightFill"  : "#fff",
+                      "pointHighlightStroke": "rgba(60,141,188,1)",
+                      "data"                : [28, 48, 40, 19, 86, 27, 90]
+                    }
+                  ]
+                }},
+				    {"type":"pie","width":6,"title":"Sales Income","chart_data":[
+                  {
+                    "value"    : 800,
+                    "color"    : "#f56954",
+                    "highlight": "#f56954",
+                    "label"    : "Chrome"
+                  },
+                  {
+                    "value"    : 500,
+                    "color"    : "#00a65a",
+                    "highlight": "#00a65a",
+                    "label"    : "IE"
+                  },
+                  {
+                    "value"    : 400,
+                    "color"    : "#f39c12",
+                    "highlight": "#f39c12",
+                    "label"    : "FireFox"
+                  },
+                  {
+                    "value"    : 600,
+                    "color"    : "#00c0ef",
+                    "highlight" : "#00c0ef",
+                    "label"    : "Safari"
+                  },
+                  {
+                    "value"    : 300,
+                    "color"    : "#3c8dbc",
+                    "highlight": "#3c8dbc",
+                    "label"    : "Opera"
+                  },
+                  {
+                    "value"    : 100,
+                    "color"    : "#d2d6de",
+                    "highlight": "#d2d6de",
+                    "label"    : "Navigator"
+                  }
+
+            ]}
+					
+				    ]}
+			
+				
+		]}
