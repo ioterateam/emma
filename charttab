@@ -1,6 +1,10 @@
+{
+"type" : "chart_tab",
+"chart_data" : 
+
 [
 
-				{"type":"area","data":[
+	{"type":"area","data":[
             { "y": "2011 Q1", "item1": 2666, "item2": 2666 },
             { "y": "2011 Q2", "item1": 2778, "item2": 2294 },
             { "y": "2011 Q3", "item1": 4912, "item2": 1969 },
@@ -18,3 +22,5 @@
           { "label": "Mail-Order Sales", "value": 20 }
         ]}
 ]
+
+}
