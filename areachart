@@ -1,6 +1,6 @@
 {
 
-"type" : "area_chart",
+"type" : "area",
 "chart_data" :
 {
                   "labels"  : ["January", "February", "March", "April", "May", "June", "July"],
