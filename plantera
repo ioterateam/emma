@@ -8,7 +8,7 @@
 				]},
 				{"type":"chart","content":[
 					{"type":"liquid","width":6,"title":"Last Month Water Usage","chart_data":30},
-				    	{"type":"liquid","width":6,"title":"Current Month Water Usage","chart_data":30}
+				    	{"type":"liquid","width":6,"title":"Current Month Water Usage","chart_data":90}
 				    
 				]},
 				 {"type":"chart","content":[
