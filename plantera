@@ -1,10 +1,6 @@
 { "data": [
 
-				{"type":"chart","content":[
-					{"type":"liquid","width":6,"title":"Last Month Water Usage","chart_data":10},
-				    	{"type":"liquid","width":6,"title":"Current Month Water Usage","chart_data":43}
-				    
-				]},
+				
 				{"type":"chart","content":[
 					{"type":"liquid","width":6,"title":"Last Month Fertilizer Usage","chart_data":80},
 				    	{"type":"liquid","width":6,"title":"Current Month Fertilizer Usage","chart_data":43}
