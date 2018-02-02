@@ -2,8 +2,8 @@
 
 				
 				{"type":"chart","content":[
-					{"type":"liquid","width":6,"title":"Fertilizer Usage","chart_data":80},
-				    	{"type":"liquid","width":6,"title":"Water Usage","chart_data":43}
+					{"type":"image","width":6,"title":"Fertilizer Usage","chart_data":80},
+				    	{"type":"image","width":6,"title":"Water Usage","chart_data":43}
 				    
 				]},
 				 {"type":"chart","content":[
